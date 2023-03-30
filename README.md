@@ -5,9 +5,9 @@ The Simon game is the exciting game of lights and sounds in which players must r
 </br>
 Included in the repository are :
 </br>
-📁 Simon Game zip file
+📁 Simon Game files
 </br>
-📁 Simon Game zip file
+📁 Video of Simon Games (mp4)
 </br>
 </br>
 
