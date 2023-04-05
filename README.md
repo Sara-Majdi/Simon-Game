@@ -5,10 +5,11 @@ The Simon game is an exciting game of lights and sounds in which players must re
 </br>
 Included in the repository are :
 </br>
+</br>
 📁 Simon Game files
 </br>
-📁 Video of Simon Games (mp4)
+📹 Video of Simon Games (mp4)
 </br>
 </br>
 
-My Simon Game Link: https://sara-majdi.github.io/Simon-Game/
+Simon Game Link: https://sara-majdi.github.io/Simon-Game/
