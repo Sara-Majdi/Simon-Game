@@ -20,4 +20,6 @@ Included in the repository are :
 📹 Video of Simon Games (mp4)
 </br>
 </br>
+#### Note:
+> Built using HTML, CSS, Javascript
 
