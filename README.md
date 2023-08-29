@@ -14,8 +14,6 @@ The Simon game is an exciting game of lights and sounds in which players must re
 
 Included in the repository are :
 </br>
-IMG
-
 </br>
 📁 Simon Game files
 </br>
