@@ -1,8 +1,3 @@
-#  :fire: TRY IT OUT :fire:
-Link : https://progress-tracker-webapp-landing-page.vercel.app/
-</br>
-</br>
-
 ## Simon-Game
 The Simon game is an exciting game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads.
 </br></br>
