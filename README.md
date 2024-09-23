@@ -1,4 +1,7 @@
-## Simon-Game
+#  :fire: TRY IT OUT :fire:
+Link : https://sara-majdi.github.io/Simon-Game/
+</br>
+</br>## Simon-Game
 The Simon game is an exciting game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads.
 </br></br>
 
